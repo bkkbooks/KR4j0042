@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR4j0042/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4j0042/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 樵隱詞
+  date: '2015-08-25 00:48:17.682183'
+  source:
+    repository: kanripo
+    path: KR4j0042
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0042_000-WYG.yaml, hash: 'sha256:bc1ff560ab9411cce863656aa1480dfdbb9e791d571bc1b961c17b3645ab55b0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4j0042_000-WYG.markers.yaml, hash: 'sha256:77c1428ae4cf12b84e2b03807ea903f9786c7dea680f4e43015cb5f233934d16'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4j0042_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 3679
+  label: 樵隠詞
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4j0042_WYG_000-16a
+    span:
+    - body
+    - 3679
+    - 3812
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:a1fd6c2e94fe172d95e5a07109dbd3b54333a19c548f00dec2f20a6b8e231824
