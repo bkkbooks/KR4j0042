@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR4j0042_000-WYG.yaml, hash: 'sha256:bc1ff560ab9411cce863656aa1480dfdbb9e791d571bc1b961c17b3645ab55b0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4j0042_000-WYG.markers.yaml, hash: 'sha256:77c1428ae4cf12b84e2b03807ea903f9786c7dea680f4e43015cb5f233934d16'}
+  - {seq: 0, role: markers, filename: assets/KR4j0042_000-WYG.markers.yaml, hash: 'sha256:738d86f66e280255616db785da8491257223cd3f2906df6b4c9c8ecec1678845'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:a1fd6c2e94fe172d95e5a07109dbd3b54333a19c548f00dec2f20a6b8e231824
+hash: sha256:064c4de87d854f40795ae1af4a9ca2a0506db013c860cd069cfcb5c5674ff6e4
